@@ -25,7 +25,7 @@ Open tobz.js then edit & paste it in YOUR_APIKEY
 
 
 ## Donate
-- Are not accepted
+- Donations are not accepted
 
 
 ## Getting Started
