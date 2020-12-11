@@ -1,30 +1,21 @@
 <p align="center">
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
-<p align="center">
-<a href="#"><img title="Hina botto" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-ArySenpai
-</p>
-<p align="center">
+
 
 
 ## Information
 
 - Change ownerNumber in tobz.js to be your number
-ownerNumber = "6213xxxxxx@c.us"
+ownerNumber = "xxxxxxxxxx@c.us"
 - Change adminNumber in admin.json to be your number
-[] -> ["62813xxxxxx@c.us"]
+[] -> ["xxxxxxxxxxx@c.us"]
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [Telegram](https://t.me/tobz2k19)
-- [Whatsapp](https://wa.me/6281311850715)
-- [BOT WA](wa.me/447723992261)
-- [GROUP WA](https://chat.whatsapp.com/InZrGpgBBNB4hnS7Q6sVJG)
+- [Discord] - ArySenpai#4955
 
 ## APIKEY
 Open tobz.js then edit & paste it in YOUR_APIKEY
@@ -32,8 +23,8 @@ Open tobz.js then edit & paste it in YOUR_APIKEY
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
 ## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
+- not accepted
+
 
 ## Getting Started
 
