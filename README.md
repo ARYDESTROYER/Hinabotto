@@ -30,8 +30,8 @@ Open tobz.js then edit & paste it in YOUR_APIKEY
 
 ## Getting Started
 
-### This project require NodeJS v14.
-This is a Bot Group Type, so you have to enter the bot into a group in order to fully use the command!
+### This project requires NodeJS v14 and up.
+Bot by default is configured to work only in groups, however few commands work in dm. This can be changed in tobz.js
 
 ### Install
 Clone this project
