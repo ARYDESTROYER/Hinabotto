@@ -11,19 +11,21 @@ ownerNumber = "xxxxxxxxxx@c.us"
 - Change adminNumber in admin.json to be your number
 [] -> ["xxxxxxxxxxx@c.us"]
 
-## Contact
 
-If you find some bugs please contact the WhatsApp number on Contact
+## Contact
 
 - [Discord] - ArySenpai#4955
 
+
 ## APIKEY
+
 Open tobz.js then edit & paste it in YOUR_APIKEY
 - [VHTEAR](https://api.vhtear.com)
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
+
 ## Donate
-- not accepted
+- Are not accepted
 
 
 ## Getting Started
@@ -35,8 +37,8 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/ARYDESTROYER/Hinabotto
+> cd Hinabotto
 ```
 
 Install the dependencies:
